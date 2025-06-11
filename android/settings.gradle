@@ -1,1 +1,2 @@
 rootProject.name = 'sms_user_consent'
+include ':sms_user_consent'
